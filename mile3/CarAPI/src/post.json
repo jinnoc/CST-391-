@@ -1,0 +1,18 @@
+{
+    "carId": 1,
+    "make": "Honda",
+    "model": "Civic",
+    "year": "2023",
+    "color": "black",
+    "price": 23000,
+    "image": "img/honda.jpg"
+	,
+	
+	"carId": 2,
+    "make": "Acura",
+    "model": "RST TYPE R",
+    "year": "2006",
+    "color": "white",
+    "price": 18000,
+    "image": "img/rsxtyper.jpg"
+}
