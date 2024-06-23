@@ -1,0 +1,389 @@
+[
+    {
+  "albumId": 1,
+  "title": "The Black Album",
+  "artist": "Jay-Z",
+  "description": "A defining album in Jay-Z's career, featuring hits like '99 Problems' and 'Dirt off Your Shoulder.'",
+  "year": "2003",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/04/Jay-Z_-_The_Black_Album.png",
+  "tracks": [
+    {
+      "trackId": 1,
+      "number": 1,
+      "title": "Interlude",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 2,
+      "number": 2,
+      "title": "December 4th",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 3,
+      "number": 3,
+      "title": "What More Can I Say",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 4,
+      "number": 4,
+      "title": "Encore",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 5,
+      "number": 5,
+      "title": "Change Clothes",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 6,
+      "number": 6,
+      "title": "Dirt off Your Shoulder",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 7,
+      "number": 7,
+      "title": "Threat",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 8,
+      "number": 8,
+      "title": "Moment of Clarity",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 9,
+      "number": 9,
+      "title": "99 Problems",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 10,
+      "number": 10,
+      "title": "Public Service Announcement",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 11,
+      "number": 11,
+      "title": "Justify My Thug",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 12,
+      "number": 12,
+      "title": "Lucifer",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 13,
+      "number": 13,
+      "title": "Allure",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 14,
+      "number": 14,
+      "title": "My 1st Song",
+      "lyrics": "",
+      "video": ""
+    }
+  ]
+},
+    {
+  "albumId": 2,
+  "title": "Thriller",
+  "artist": "Michael Jackson",
+  "description": "The best-selling album of all time",
+  "year": "1982",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+  "tracks": [
+    {
+      "trackId": 1,
+      "number": 1,
+      "title": "Wanna Be Startin' Somethin'",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 2,
+      "number": 2,
+      "title": "Baby Be Mine",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 3,
+      "number": 3,
+      "title": "The Girl Is Mine",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 4,
+      "number": 4,
+      "title": "Thriller",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 5,
+      "number": 5,
+      "title": "Beat It",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 6,
+      "number": 6,
+      "title": "Billie Jean",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 7,
+      "number": 7,
+      "title": "Human Nature",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 8,
+      "number": 8,
+      "title": "P.Y.T. (Pretty Young Thing)",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 9,
+      "number": 9,
+      "title": "The Lady in My Life",
+      "lyrics": "",
+      "video": ""
+    }
+  ]
+},
+    {
+  "albumId": 3,
+  "title": "Core",
+  "artist": "Stone Temple Pilots",
+  "description": "The debut studio album by American rock band Stone Temple Pilots.",
+  "year": "1992",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Stone_Temple_Pilots_Core.jpg",
+  "tracks": [
+    {
+      "trackId": 1,
+      "number": 1,
+      "title": "Dead & Bloated",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 2,
+      "number": 2,
+      "title": "Sex Type Thing",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 3,
+      "number": 3,
+      "title": "Wicked Garden",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 4,
+      "number": 4,
+      "title": "No Memory",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 5,
+      "number": 5,
+      "title": "Sin",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 6,
+      "number": 6,
+      "title": "Naked Sunday",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 7,
+      "number": 7,
+      "title": "Creep",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 8,
+      "number": 8,
+      "title": "Piece of Pie",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 9,
+      "number": 9,
+      "title": "Plush",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 10,
+      "number": 10,
+      "title": "Wet My Bed",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 11,
+      "number": 11,
+      "title": "Crackerman",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 12,
+      "number": 12,
+      "title": "Where the River Goes",
+      "lyrics": "",
+      "video": ""
+    }
+  ]
+},
+	{
+  "albumId": 4,
+  "title": "Kind of Blue",
+  "artist": "Miles Davis",
+  "description": "A landmark jazz album by American trumpeter Miles Davis.",
+  "year": "1959",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/MilesDavisKindofBlue.jpg",
+  "tracks": [
+    {
+      "trackId": 1,
+      "number": 1,
+      "title": "So What",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 2,
+      "number": 2,
+      "title": "Freddie Freeloader",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 3,
+      "number": 3,
+      "title": "Blue in Green",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 4,
+      "number": 4,
+      "title": "All Blues",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 5,
+      "number": 5,
+      "title": "Flamenco Sketches",
+      "lyrics": "",
+      "video": ""
+    }
+  ]
+},
+	{
+  "albumId": 5,
+  "title": "Make It Big",
+  "artist": "Wham!",
+  "description": "The second studio album by British pop duo Wham!, featuring several hit singles.",
+  "year": "1984",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/WhamMakeItBigAlbumcover.jpg",
+  "tracks": [
+    {
+      "trackId": 1,
+      "number": 1,
+      "title": "Wake Me Up Before You Go-Go",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 2,
+      "number": 2,
+      "title": "Everything She Wants",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 3,
+      "number": 3,
+      "title": "Heartbeat",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 4,
+      "number": 4,
+      "title": "Like a Baby",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 5,
+      "number": 5,
+      "title": "Freedom",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 6,
+      "number": 6,
+      "title": "If You Were There",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 7,
+      "number": 7,
+      "title": "Credit Card Baby",
+      "lyrics": "",
+      "video": ""
+    },
+    {
+      "trackId": 8,
+      "number": 8,
+      "title": "Careless Whisper",
+      "lyrics": "",
+      "video": ""
+    }
+  ]
+}
+  ]
+  
