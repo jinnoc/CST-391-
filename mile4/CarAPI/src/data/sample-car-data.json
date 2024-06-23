@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "make": "Honda",
+      "model": "crv",
+      "year": "2000",
+      "color": "White",
+	  "price": "23000",
+      "image": "img/honda.jpg"
+    },
+    {
+      "id": 2,
+      "make": "Acura",
+      "model": "rsx",
+      "year": "2000",
+      "color": "White",
+	  "price": "23000",
+      "image": "img/honda.jpg"
+    },
+	{
+    "id": 3,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": "2022",
+    "color": "Black",
+    "price": "42000",
+    "image": "img/bmw_3series.jpg"
+  },
+  {
+    "id": 4,
+    "make": "BMW",
+    "model": "X5",
+    "year": "2021",
+    "color": "Silver",
+    "price": "60000",
+    "image": "img/bmw_x5.jpg"
+  },
+  {
+    "id": 5,
+    "make": "BMW",
+    "model": "M4",
+    "year": "2022",
+    "color": "Blue",
+    "price": "70000",
+    "image": "img/bmw_m4.jpg"
+  },
+  {
+    "id": 6,
+    "make": "BMW",
+    "model": "i8",
+    "year": "2020",
+    "color": "White",
+    "price": "95000",
+    "image": "img/bmw_i8.jpg"
+  },
+  {
+    "id": 7,
+    "make": "BMW",
+    "model": "Z4",
+    "year": "2023",
+    "color": "Red",
+    "price": "50000",
+    "image": "img/bmw_z4.jpg"
+  },
+    {
+      "id": 8,
+      "make": "Honda",
+      "model": "civic",
+      "year": "2000",
+      "color": "White",
+	  "price": "23000",
+      "image": "img/honda.jpg"
+    },
+    {
+      "id": 9,
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2000",
+      "color": "White",
+	  "price": "23000",
+      "image": "img/honda.jpg"
+    }
+]
+  

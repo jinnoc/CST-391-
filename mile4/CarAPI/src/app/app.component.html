@@ -1,0 +1,26 @@
+<!doctype html>
+<nav class="navbar bg-dark navbar-expand-md border-bottom border-body justify-content-center" data-bs-theme="dark">
+
+  <div class="container-fluid">
+    
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="navbar-nav">
+        <a href="list-car/list-car.component.html" class="submit-button text-center" style="margin:0em 1em" routerLink="/List" (click)="displayCarList()">Car List</a>
+        <a href="create-car/create-car.component.html" class="submit-button text-center" style="margin:0em 1em" routerLink="/create">Add new car</a>
+        <a href="edit-car/edit-car.component.html" class="submit-button text-center" style="margin:0em 1em" routerLink="/edit">Update car</a>
+        <a href="delete-car/delete-car.component.html" class="submit-button text-center" style="margin:0em 1em" routerLink="/delete">Remove car</a>
+        <button class="submit-button text-center" style="margin:0em 1em" (click)="displayVersion()">About</button>
+      </div>
+    </div>
+  </div>
+</nav>
+<div style="text-align:center; margin-top: 3%;">
+  <h1>
+  Welcome to {{ title }}
+  </h1>
+</div>
+<router-outlet></router-outlet>
+
+
+
+
