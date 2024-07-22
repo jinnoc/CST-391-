@@ -1,0 +1,114 @@
+[
+   {
+    "id": 0,
+    "title": "Yellow Submarine",
+    "artist": "The Beatles",
+    "description": "Yellow Submarine is the tenth studio album by English rock band the Beatles, released on 13 January 1969 in the United States and on 17 January 1969 in the United Kingdom.",
+    "year": 1969,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg/220px-TheBeatles-YellowSubmarinealbumcover.jpg"
+   },
+   {
+    "id": 1,
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "description": "Abbey Road is the eleventh studio album by the English rock band the Beatles, released on 26 September 1969.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
+   },
+  {
+    "artistId": 2,
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "description": "Let It Be is the twelfth and final studio album by the English rock band the Beatles. It was released on 8 May 1970, almost a month after the group's break-up.",
+    "year": 1970,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/LetItBe.jpg/220px-LetItBe.jpg"
+  }
+][
+  {
+    "id": 0,
+    "title": "The Chronic",
+    "artist": "Dr. Dre",
+    "description": "The Chronic is the debut studio album by American hip hop producer and rapper Dr. Dre. It was released on December 15, 1992.",
+    "year": 1992,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Dr.DreTheChronic.jpg/220px-Dr.DreTheChronic.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Illmatic",
+    "artist": "Nas",
+    "description": "Illmatic is the debut studio album by American rapper Nas. It was released on April 19, 1994.",
+    "year": 1994,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/NasIllmatic.jpg/220px-NasIllmatic.jpg"
+  },
+  {
+    "id": 2,
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "description": "To Pimp a Butterfly is the third studio album by American rapper Kendrick Lamar. It was released on March 15, 2015.",
+    "year": 2015,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/To_Pimp_a_Butterfly.jpg/220px-To_Pimp_a_Butterfly.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Marshall Mathers LP",
+    "artist": "Eminem",
+    "description": "The Marshall Mathers LP is the third studio album by American rapper Eminem. It was released on May 23, 2000.",
+    "year": 2000,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/The_Marshall_Mathers_LP.jpg/220px-The_Marshall_Mathers_LP.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Reasonable Doubt",
+    "artist": "Jay-Z",
+    "description": "Reasonable Doubt is the debut studio album by American rapper Jay-Z. It was released on June 25, 1996.",
+    "year": 1996,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Reasonable_Doubt_New.jpg/220px-Reasonable_Doubt_New.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Blueprint",
+    "artist": "Jay-Z",
+    "description": "The Blueprint is the sixth studio album by American rapper Jay-Z. It was released on September 11, 2001.",
+    "year": 2001,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/The_Blueprint.png/220px-The_Blueprint.png"
+  },
+  {
+    "id": 6,
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "description": "My Beautiful Dark Twisted Fantasy is the fifth studio album by American rapper and producer Kanye West. It was released on November 22, 2010.",
+    "year": 2010,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/My_Beautiful_Dark_Twisted_Fantasy.jpg/220px-My_Beautiful_Dark_Twisted_Fantasy.jpg"
+  },
+  {
+    "id": 7,
+    "title": "good kid, m.A.A.d city",
+    "artist": "Kendrick Lamar",
+    "description": "good kid, m.A.A.d city is the second studio album by American rapper Kendrick Lamar. It was released on October 22, 2012.",
+    "year": 2012,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Good_kid_maad_city_standard.png/220px-Good_kid_maad_city_standard.png"
+  },
+  {
+    "id": 8,
+    "title": "The College Dropout",
+    "artist": "Kanye West",
+    "description": "The College Dropout is the debut studio album by American rapper and producer Kanye West. It was released on February 10, 2004.",
+    "year": 2004,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Kanyewest_collegedropout.jpg/220px-Kanyewest_collegedropout.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Get Rich or Die Tryin'",
+    "artist": "50 Cent",
+    "description": "Get Rich or Die Tryin' is the debut studio album by American rapper 50 Cent. It was released on February 6, 2003.",
+    "year": 2003,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Get_Rich_Or_Die_Tryin%27.JPG/220px-Get_Rich_Or_Die_Tryin%27.JPG"
+  },
+  {
+    "id": 10,
+    "title": "All Eyez on Me",
+    "artist": "2Pac",
+    "description": "All Eyez on Me is the fourth studio album by American rapper 2Pac. It was released on February 13, 1996.",
+    "year": 1996,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Alleyezonme.jpg/220px-Alleyezonme.jpg"
+  }
+]
